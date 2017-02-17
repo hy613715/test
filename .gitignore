@@ -30,6 +30,6 @@ Thumbs.db
 # *.zip
 # *.tar
 # *.tar.gz
-  *.txt
+# *.txt
 count.sh
 .tmp.count
