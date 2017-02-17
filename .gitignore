@@ -1,0 +1,34 @@
+# 注释
+/ver/
+
+# kdiff3 ignore
+*.orig
+
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+LICENSE
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# package ignore (optional)
+# *.jar
+# *.war
+# *.zip
+# *.tar
+# *.tar.gz
+
+count.sh
+.tmp.count
