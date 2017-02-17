@@ -11,14 +11,13 @@
 .project
 .classpath
 
-LICENSE
-
 # temp ignore
 *.log
 *.cache
 *.diff
 *.patch
 *.tmp
+*.md
 
 # system ignore
 .DS_Store
